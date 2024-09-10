@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Trenning_NotificationsExample.props" />
+</Project>

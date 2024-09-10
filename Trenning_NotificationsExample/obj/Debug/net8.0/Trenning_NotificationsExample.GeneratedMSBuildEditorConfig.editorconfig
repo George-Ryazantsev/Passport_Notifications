@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Trenning_NotificationsExample
+build_property.RootNamespace = Trenning_NotificationsExample
+build_property.ProjectDir = C:\Users\George\source\repos\Trenning_NotificationsExample\Trenning_NotificationsExample\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\George\source\repos\Trenning_NotificationsExample\Trenning_NotificationsExample
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/George/source/repos/Trenning_NotificationsExample/Trenning_NotificationsExample/Views/Passports/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3BvcnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/George/source/repos/Trenning_NotificationsExample/Trenning_NotificationsExample/Views/Passports/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3BvcnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/George/source/repos/Trenning_NotificationsExample/Trenning_NotificationsExample/Views/Passports/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3BvcnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/George/source/repos/Trenning_NotificationsExample/Trenning_NotificationsExample/Views/Passports/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3BvcnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/George/source/repos/Trenning_NotificationsExample/Trenning_NotificationsExample/Views/Passports/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3BvcnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/George/source/repos/Trenning_NotificationsExample/Trenning_NotificationsExample/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
